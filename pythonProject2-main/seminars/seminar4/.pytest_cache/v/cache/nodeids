@@ -1,0 +1,9 @@
+[
+  "test_negative.py::TestNegative::test_step1",
+  "test_negative.py::TestNegative::test_step2",
+  "test_positive.py::TestPositive::test_step1",
+  "test_positive.py::TestPositive::test_step2",
+  "test_positive.py::TestPositive::test_step3",
+  "test_positive.py::TestPositive::test_step4",
+  "test_positive.py::TestPositive::test_step5"
+]
